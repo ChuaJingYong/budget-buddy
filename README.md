@@ -1,1 +1,1 @@
-# ss-expense-tracker
+# Budget Buddy
